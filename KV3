@@ -3,12 +3,12 @@
 
     -- Configuração da janela principal usando OrionLib
     local Window = OrionLib:MakeWindow({
-        Name = "Vision Hub |System Key|",           -- Nome exibido na janela e introdução
+        Name = "Haidez Hub |System Key|",           -- Nome exibido na janela e introdução
         HidePremium = false,                    -- Esconder funções premium (false para exibi-las)
         SaveConfig = true,                      -- Salvar as configurações automaticamente
-        ConfigFolder = "VisionHubSystemKey",    -- Pasta onde as configurações serão salvas
+        ConfigFolder = "HaidezHubSystemKey",    -- Pasta onde as configurações serão salvas
         IntroEnabled = true,                    -- Ativar introdução ao abrir
-        IntroText = "Vision Hub |System Key|",     -- Texto exibido na introdução
+        IntroText = "Haidez Hub |System Key|",     -- Texto exibido na introdução
         IntroIcon = "rbxassetid://71065081734857"  -- ID do ícone mostrado na introdução
     })
     
